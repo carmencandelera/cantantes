@@ -1,0 +1,93 @@
+body
+{
+    background-color: white
+}
+
+#título{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 50px
+}
+
+#nombrem{
+    color: black;
+    font-size: 30px
+}
+
+#texto{
+    color: #13132E;
+    font-size: 17px
+}
+
+#textom{
+    font-size: 17px;
+}
+
+.portada{
+   /*background-color: #13132E */
+}
+
+#nombreb{
+    color: black;
+    font-size: 30px;
+    
+}
+
+#textob{
+    font-size: 17px
+}
+
+.btn-primary{
+    background-color: rgb(180, 8, 8)
+}
+
+.btn-secondary{
+    background-color: rgb(190, 12, 190);
+    color: white
+}
+
+#nombren{
+    font-size: 30px
+}
+
+#texton{
+    font-size: 17px
+}
+
+.carousel{
+    width: 900px;
+    margin: 0 auto
+}
+
+#textoinicio{
+    font-size: 17px
+}
+
+#biografiab{
+    font-size: 17px
+}
+
+#fotom{
+    display: block; 
+    margin: auto;
+}
+
+#fotob{
+    display: block;
+    margin: auto;
+    width: 
+}
+
+#foton{
+    display: block;
+    margin: auto;
+}
+
+.fondo{
+    background-color: white !important;
+}
+
+
+
+
